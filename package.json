@@ -42,6 +42,28 @@
 		"typescript": "^3.8.3",
 		"vscode-test": "^1.3.0"
 	},
+	"publisher": "FelipeBit",
+  	"icon": "./src/assets/kbase-logo.png",
+  	"galleryBanner": {
+    	"color": "#030518",
+    	"theme": "dark"
+  	},
+  	"keywords": [
+		"kbase",
+		"react",
+		"react native",
+		"node",
+    	"typescript",
+		"javascript",
+		"nest"
+  	],
+  	"repository": {
+    	"url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+  	},
+  	"homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+  	"bugs": {
+    	"url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+  	},
 	"extensionPack": [
 		"esbenp.prettier-vscode",
 		"dbaeumer.vscode-eslint",
