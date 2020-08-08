@@ -43,6 +43,9 @@
 		"vscode-test": "^1.3.0"
 	},
 	"extensionPack": [
-
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"ms-vsliveshare.vsliveshare-pack",
+		"eamodio.gitlens"
 	]
 }
