@@ -58,11 +58,11 @@
 		"nest"
   	],
   	"repository": {
-    	"url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+    	"url": "https://github.com/FelipeBit/kbase-extension-pack"
   	},
-  	"homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+  	"homepage": "https://github.com/FelipeBit/kbase-extension-pack",
   	"bugs": {
-    	"url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+    	"url": "https://github.com/FelipeBit/kbase-extension-pack/issues"
   	},
 	"extensionPack": [
 		"esbenp.prettier-vscode",
