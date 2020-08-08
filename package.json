@@ -43,7 +43,7 @@
 		"vscode-test": "^1.3.0"
 	},
 	"publisher": "FelipeBit",
-  	"icon": "./src/assets/kbase-logo.png",
+  	"icon": "kbase-logo.png",
   	"galleryBanner": {
     	"color": "#030518",
     	"theme": "dark"
