@@ -68,6 +68,7 @@
 		"esbenp.prettier-vscode",
 		"dbaeumer.vscode-eslint",
 		"ms-vsliveshare.vsliveshare-pack",
-		"eamodio.gitlens"
+		"eamodio.gitlens",
+		"kisstkondoros.vscode-codemetrics"
 	]
 }
